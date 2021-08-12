@@ -1,4 +1,5 @@
 In today’s  fast and competitive world, a university’s first  face is it’s website. If some unknown wants to know about a university, they would first look into its website. Our Project is creating a website for VIT Bhopal. We want to modify the original VIT Bhopal website with some more extra features making it more attractive. As a process of knowing what changes are to be made in the website, we mainly thought of few important ideas –
+
        1. Live Chat System
        2. VIT G-Pay
        3. Attractive homepage
